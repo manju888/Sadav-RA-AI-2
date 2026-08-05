@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Sadav RA AI</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+background:#f5f7fb;
+margin:0;
+padding:20px;
+color:#333;
+line-height:1.8;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+background:#fff;
+padding:30px;
+border-radius:15px;
+box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+
+h1{
+color:#2563eb;
+text-align:center;
+}
+
+h2{
+color:#2563eb;
+margin-top:25px;
+}
+
+.button{
+display:inline-block;
+margin-top:25px;
+padding:12px 20px;
+background:#2563eb;
+color:#fff;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>About Sadav RA AI</h1>
+
+<p><strong>Version:</strong> 1.0.0</p>
+
+<p>
+<strong>Sadav RA AI</strong> is an advanced AI-powered educational learning platform developed by <strong>Manjun Brand</strong>. The application is designed to provide students, teachers, professionals, and lifelong learners with intelligent academic assistance across multiple subjects.
+</p>
+
+<h2>Our Mission</h2>
+
+<p>
+Our mission is to make high-quality education accessible to everyone through artificial intelligence. We aim to simplify learning by delivering accurate explanations, quick revisions, flashcards, practice MCQs, and interactive study support.
+</p>
+
+<h2>Our Vision</h2>
+
+<p>
+Our vision is to become one of the most trusted AI-powered educational platforms, helping learners improve knowledge, build confidence, and achieve academic success through innovative technology.
+</p>
+
+<h2>Key Features</h2>
+
+<ul>
+<li>AI-powered answers across multiple subjects.</li>
+<li>Simple and detailed explanations.</li>
+<li>Flashcards for quick learning.</li>
+<li>Topic-based MCQs for self-assessment.</li>
+<li>Fast, secure, and user-friendly interface.</li>
+<li>Continuous improvements and feature updates.</li>
+</ul>
+
+<h2>Supported Subjects</h2>
+
+<p>
+Sadav RA AI supports learning across Nursing, Medical, Science, Engineering, Mathematics, Business, Programming, School Education, College Education, Competitive Exams, Languages, General Knowledge, and many other academic and professional subjects.
+</p>
+
+<h2>Developer Information</h2>
+
+<p>
+<b>Developer:</b> Manjun Brand<br>
+<b>Application:</b> Sadav RA AI<br>
+<b>Email:</b> naiknmanjunath@gmail.com
+</p>
+
+<a class="button" href="index.html">← Back to Home</a>
+
+</div>
+
+</body>
+</html>
